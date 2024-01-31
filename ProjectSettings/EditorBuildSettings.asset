@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Title.unity
+    guid: af051ea837192435f8d875358a427fdd
+  - enabled: 1
+    path: Assets/Scenes/Maze1.unity
+    guid: fd5c4f821f60f504e86f3c46b210de1c
+  - enabled: 1
+    path: Assets/Scenes/Maze2.unity
+    guid: aa31c9bb5378e441db7745d63c7f0670
+  - enabled: 0
+    path: Assets/Scenes/VR Test.unity
+    guid: 250a4ca6c12574ca184bc33a90f280f4
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 69cc048b348d644b39281d7e79ffc228,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d25ba736250444c2fb41833f800e0c5d,
+      type: 2}
